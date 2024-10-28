@@ -14,6 +14,8 @@ Komponen yang ingin ditambahkan dapat dimasukkan ke dalam file namaHalaman.page.
 Jika komponen membutuhkan interaksi atau data yang dinamis, logika yang diperlukan dapat dimasukkan ke dalam file namaHalaman.page.ts.
 
 4. Simpan dan jalankan.
-Terakhir, simpan file yang sudah selesai dikerjakan. Kemudian jalankan pada cmd dengan perintah <i>ionic serve<i>.
+Terakhir, simpan file yang sudah selesai dikerjakan. Kemudian jalankan pada cmd dengan perintah <i>ionic serve</i>.
+
+5. Hasil: ![hasilnya](hasil.png)
 
 ## Hasna Mumtazah Khairunnisa | H1D022070 | Shift E
